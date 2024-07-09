@@ -6,7 +6,7 @@ body {
 .container {
     max-width: 300px;
     margin: 40px auto;
-    padding:17px;
+    padding:35px;
     background-color: #fff;
     border: 5px solid grey;
     box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
