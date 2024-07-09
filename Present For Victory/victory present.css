@@ -1,9 +1,10 @@
 /* CSS (in style.css file) */
 body {
-    font-family:cursive;
+    font-family:segoe script;
     background-color:lavender;
     font-style:italic;
-    font-weight:700;
+    font-weight:900;
+    font-size:15px;
 
 }
 
