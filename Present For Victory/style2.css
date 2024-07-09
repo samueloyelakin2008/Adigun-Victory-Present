@@ -1,15 +1,18 @@
 body {
-    font-family:cursive;
-    background-color:orangered;
+    font-family:segoe script;
+    background-color:lavender;
 }
 
 .container {
     max-width: 300px;
     margin: 40px auto;
-    padding: 100px;
+    padding: 20px;
     background-color: #fff;
-    border: 10px solid #ddd;
+    border: 5px solid grey;
     box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+    border-radius:50px;
+    background-image:url(images/google.png);
+   background-repeat:no-repeat;
 }
 
 .login-form {
